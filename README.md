@@ -5,9 +5,5 @@
 su root
 ```
 
-## 安装五笔输入法
-```shell
-yum remove ibus
-yum install ibus ibus-table
-yum install ibus ibus-table-wubi
-```
+## [安装输入法](install-input-method.md)
+
