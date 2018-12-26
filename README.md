@@ -22,4 +22,5 @@ reboot
 
 * [安装输入法](install-input-method.md)
 * [开启SSH服务](open-ssh-service.md)
+* [MAC远程连接Ubuntu桌面](mac-remote-connection-ubuntu-desktop.md)
 * [开机](shutdown.md)
