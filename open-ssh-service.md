@@ -36,6 +36,15 @@ sudo update-rc.d ssh defaults
 sudo update-rc.d ssh remove
 ```
 
+* 查看SSH服务设置的自启动
+```bash
+ls /etc/rc*
+......
+......
+ls -l /etc/rc2.d/S02ssh
+    lrwxrwxrwx 1 root root 13 12月 25 16:33 /etc/rc2.d/S02ssh -> ../init.d/ssh
+```
+
 ## 参考资料
 * [Ubuntu 16.04开启SSH服务](https://www.cnblogs.com/EasonJim/p/7189509.html)
 * [Ubuntu如何安装ssh服务并开启root用户ssh权限](https://jingyan.baidu.com/article/09ea3ede459728c0aede39f1.html)
