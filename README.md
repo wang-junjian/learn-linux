@@ -25,3 +25,4 @@ reboot
 * [MAC远程连接Ubuntu桌面](mac-remote-connection-ubuntu-desktop.md)
 * [开机](shutdown.md)
 * [挂载硬盘](mount-harddisk.md)
+* [远程操作](remote-operation.md)
