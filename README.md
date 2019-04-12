@@ -26,3 +26,4 @@ reboot
 * [开机](shutdown.md)
 * [挂载硬盘](mount-harddisk.md)
 * [远程操作](remote-operation.md)
+* [Linux⽹络配置](linux-network-config.md)
