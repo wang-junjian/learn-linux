@@ -27,3 +27,4 @@ reboot
 * [挂载硬盘](mount-harddisk.md)
 * [远程操作](remote-operation.md)
 * [Linux⽹络配置](linux-network-config.md)
+* [显示目录内容](list-directory-contents.md)
