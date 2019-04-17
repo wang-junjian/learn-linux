@@ -28,3 +28,4 @@ reboot
 * [远程操作](remote-operation.md)
 * [Linux⽹络配置](linux-network-config.md)
 * [显示目录内容](list-directory-contents.md)
+* [统计目录下文件数量](number-of-files-in-the-statistics-directory.md)
